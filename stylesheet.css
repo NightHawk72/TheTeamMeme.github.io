@@ -40,3 +40,6 @@ div {
         transform:rotate(360deg);
     }
 }
+* {
+    color:#00345;
+}
