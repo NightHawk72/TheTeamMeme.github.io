@@ -18,9 +18,7 @@ div {
     -webkit-transform-origin: center center;
     -moz-transform-origin: center center;
     -ms-transform-origin: center center;
-        -webkit-transform-origin: center center
-    -moz-transform-origin: center center
-    -ms-transform-origin: center center;
+    transform-origin: center center;
     
     animation-name: spin;
     animation-duration: 4000ms;
