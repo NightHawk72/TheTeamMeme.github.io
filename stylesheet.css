@@ -1,5 +1,4 @@
 div {
-    transform-origin: center center
     padding:100px;
     margin: auto;
     width: 50px;
@@ -16,6 +15,9 @@ div {
     -ms-animation-duration: 4000ms;
     -ms-animation-iteration-count: infinite;
     -ms-animation-timing-function: linear;
+    -webkit-transform-origin: center center;
+    -moz-transform-origin: center center;
+    -ms-transform-origin: center center;
     
     animation-name: spin;
     animation-duration: 4000ms;
