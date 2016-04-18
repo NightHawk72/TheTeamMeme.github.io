@@ -1,13 +1,7 @@
-div{
-    padding:100px;
-    margin: auto;
-    width: 500px;
-    height: auto;
-}
-
 .spin {
     padding:100px;
     margin: auto;
+    /*Change Width to change size*/
     width: 500px;
     height: auto;
     transform: none;
