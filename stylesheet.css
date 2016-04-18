@@ -15,10 +15,10 @@ div {
     -ms-animation-duration: 4000ms;
     -ms-animation-iteration-count: infinite;
     -ms-animation-timing-function: linear;
-    -webkit-transform-origin: center center;
-    -moz-transform-origin: center center;
-    -ms-transform-origin: center center;
-    transform-origin: center center;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
     
     animation-name: spin;
     animation-duration: 4000ms;
