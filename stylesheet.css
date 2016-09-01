@@ -1,8 +1,8 @@
 .spin {
-    padding:100px;
+    padding:1px;
     margin: auto;
     /*Change Width to change size*/
-    width: 1000px;
+    width: 600px;
     height: auto;
     transform: none;
     -webkit-transform-origin: 50% 50%;
@@ -11,20 +11,20 @@
     transform-origin: 50% 50%;
     
     -webkit-animation-name: spin;
-    -webkit-animation-duration: 4.0s;
+    -webkit-animation-duration: 1.0s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
     -moz-animation-name: spin;
-    -moz-animation-duration: 4.0s;
+    -moz-animation-duration: 1.0s;
     -moz-animation-iteration-count: infinite;
     -moz-animation-timing-function: linear;
     -ms-animation-name: spin;
-    -ms-animation-duration: 4.0s;
+    -ms-animation-duration: 1.0s;
     -ms-animation-iteration-count: infinite;
     -ms-animation-timing-function: linear;
     
     animation-name: spin;
-    animation-duration: 4.0s;
+    animation-duration: 1.0s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
@@ -49,3 +49,7 @@
     }
 }
 
+h3{
+    font-family:Comic Sans MS;
+    color: #ff00ff;
+}
